@@ -91,7 +91,7 @@ DATASET_PATH = "/PATH/TO/YOUR/DATASET"
 SAVE_PATH = "/PATH/TO/SAVE/EMBEDDINGS"
 
 
-# If the user uploads the picture of this dress to the clothing website...
+# For example: If the user uploads the picture of this dress to the clothing website...
 
 ![Description](https://drive.google.com/uc?export=view&id=1vWLMf8Ff7ldk7PCOh4cs1bs_MZ2ks4Mw)
 
