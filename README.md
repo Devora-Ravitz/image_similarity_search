@@ -1,6 +1,5 @@
 # Image Similarity and Clustering with ResNet50
 
-![Description](https://drive.google.com/uc?export=view&id=1EdR-LVBZNSKM4VNmERJV1MvIBlojA4dy)
 
 
 # 1. Image Processing 🖼️
@@ -90,4 +89,12 @@ Copy code
 IMGSIM = IMG2VEC(MODEL_NAME='RESNET50', WEIGHTS='IMAGENET')
 DATASET_PATH = "/PATH/TO/YOUR/DATASET"
 SAVE_PATH = "/PATH/TO/SAVE/EMBEDDINGS"
+![Description](https://drive.google.com/uc?export=view&id=1vWLMf8Ff7ldk7PCOh4cs1bs_MZ2ks4Mw)
+
+![Description](https://drive.google.com/uc?export=view&id=1EdR-LVBZNSKM4VNmERJV1MvIBlojA4dy)
+
+![Description](https://drive.google.com/uc?export=view&id=1xB0qQbdO_RqeX2hsoY6MRELi4N23KaAQ)
+
+
+
 
