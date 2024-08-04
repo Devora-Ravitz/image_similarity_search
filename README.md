@@ -1,18 +1,18 @@
 # Image Similarity and Clustering with ResNet50
 
-1. Image Processing 🖼️
+# 1. Image Processing 🖼️
 Resize: The images are resized to 224x224 pixels to meet the model's requirements.
 Normalize: Pixel values are normalized to improve model performance and accuracy.
 Ready for Model: The clothing images are now ready to be fed into the model for vector extraction.
-2. Model Initialization 🧠
+# 2. Model Initialization 🧠
 ResNet50 Pre-trained Weights: The ResNet50 model, pre-trained on ImageNet, is used to generate embeddings—vectors representing the essential features of the images, facilitating easy comparison.
-3. Saving and Loading the Dataset 💾
+# 3. Saving and Loading the Dataset 💾
 Backup: It's always good to have a backup. The vectors are saved as a file and can be reloaded for further processing if needed.
-4. Finding Similar Clothing 🔍
+# 4. Finding Similar Clothing 🔍
 Cosine Distance: The vector of a given clothing image is compared with vectors in the dataset to find the most similar clothing items.
-5. K-Nearest Neighbors 🧑‍🏫
+# 5. K-Nearest Neighbors 🧑‍🏫
 KNN Algorithm: The K-nearest neighbors for a given clothing image are found using the Nearest Neighbors algorithm. This algorithm helps classify or predict the category or value of a new sample based on its similarity to previous samples.
-6. Clustering 📊
+# 6. Clustering 📊
 KMeans Clustering: The clothing images in the dataset are clustered using KMeans, which groups the samples into several clusters, keeping the internal proximity within each cluster.
 Visual Representation: The clusters are displayed visually, allowing you to see which images belong to the same cluster.
 Installation and Usage
