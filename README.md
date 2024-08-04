@@ -1,5 +1,8 @@
 # Image Similarity and Clustering with ResNet50
 
+![Description](https://drive.google.com/uc?export=view&id=1EdR-LVBZNSKM4VNmERJV1MvIBlojA4dy)
+
+
 # 1. Image Processing 🖼️
 Resize: The images are resized to 224x224 pixels to meet the model's requirements.
 Normalize: Pixel values are normalized to improve model performance and accuracy.
