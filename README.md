@@ -88,8 +88,8 @@ SAVE_PATH = "/PATH/TO/SAVE/EMBEDDINGS"
 
 # So, these two dresses, which are the most similar from the entire site, will be returned to them. They are also women's dresses, in the same cut, and in the color green.
 
-![Description](https://drive.google.com/uc?export=view&id=1EdR-LVBZNSKM4VNmERJV1MvIBlojA4dy)
 
+![Description](https://drive.google.com/uc?export=view&id=1xB0qQbdO_RqeX2hsoY6MRELi4N23KaAQ)
 
 
 
